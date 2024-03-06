@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 objectid,Object ID,,
 title,Title,,
-file name,File Name,,
+filename,File Name,,
 format,Format,,
 creator,Creator,true,
 datecreated,Date,,
